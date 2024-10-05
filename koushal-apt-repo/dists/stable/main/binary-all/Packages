@@ -1,0 +1,13 @@
+Package: greet-koushal
+Version: 0.0.1
+Architecture: all
+Maintainer: example <example@example.com>
+Depends: python3.12
+Filename: pool/main/greet-koushal_0.0.1-1_all.deb
+Size: 7329282
+MD5sum: f5b4fb9068a4c2dd66ca5dd6f4a2f4f6
+SHA1: 5f53279a250a0fd09533a9e67200209bb9353988
+SHA256: d276d5f89292434fa6b713d3c4848e137a07e4d0571fb368cbf639b9c59b1c0e
+Homepage: http://example.com
+Description: Greetings from koushal
+

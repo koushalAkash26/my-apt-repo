@@ -1,0 +1,18 @@
+Origin: koushal-apt-repo
+Label: greet-koushal
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: all
+Components: main
+Description: Greetings from koushal
+Date: Sat, 05 Oct 2024 03:53:08 +0000
+MD5Sum:
+ af81f8ff5f6da1a53c550dfbb49f79dc 409 main/binary-all/Packages
+ a5b36dabfd675708050e2e40812c1d32 314 main/binary-all/Packages.gz
+SHA1:
+ dbed044b2253adb1401ab22c70261a2093d0eb08 409 main/binary-all/Packages
+ 379c23ad03db13848fb3f9c4b359dd6b840ed632 314 main/binary-all/Packages.gz
+SHA256:
+ 33cf89ba0463a336057b77c143a3f27f5cc0e2c35b3d31b044e6c15b8d583aec 409 main/binary-all/Packages
+ 646273392132716214adf914694e9a5c7494e33ed7acc4be6653c13e4db4740d 314 main/binary-all/Packages.gz

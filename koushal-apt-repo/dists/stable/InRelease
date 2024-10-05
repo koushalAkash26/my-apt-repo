@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: koushal-apt-repo
+Label: greet-koushal
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: all
+Components: main
+Description: Greetings from koushal
+Date: Sat, 05 Oct 2024 03:53:08 +0000
+MD5Sum:
+ af81f8ff5f6da1a53c550dfbb49f79dc 409 main/binary-all/Packages
+ a5b36dabfd675708050e2e40812c1d32 314 main/binary-all/Packages.gz
+SHA1:
+ dbed044b2253adb1401ab22c70261a2093d0eb08 409 main/binary-all/Packages
+ 379c23ad03db13848fb3f9c4b359dd6b840ed632 314 main/binary-all/Packages.gz
+SHA256:
+ 33cf89ba0463a336057b77c143a3f27f5cc0e2c35b3d31b044e6c15b8d583aec 409 main/binary-all/Packages
+ 646273392132716214adf914694e9a5c7494e33ed7acc4be6653c13e4db4740d 314 main/binary-all/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJNBAEBCgA3FiEEOmYsGID2jZj5IaC/Mn4fu9kFidIFAmcAvOkZHGtvdXNoYWxh
+a2FzaDNAZ21hYWlsLmNvbQAKCRAyfh+72QWJ0h0SD/0fMiiyHPmW2H+J2SO1w1H7
+qpR/LwAuNYPY9LseP9xezaiWbh8d3ygBzGiQmk4e2QqkJCuTd6Cm5qqbo4srrGx2
+G/rSwM4X12rZOFz1OwquBtX/Qq4Zk5amKSEsWJEXs/7DQwje06K9GJg80+Y3bCjd
+lnBVoTmUlLLXdiCtIO8zCusBGjSMhFDpvvV6pnclMl2vtoV1Jdeup4UyPb+6Ddj4
++2O6OwYahEBYSwSgQwb3c9XrXki+2U6gN1/wn4qYi34zfHPwlRPQk8qwWQuhV0zd
+2Jf4x5YlWMqEXyL3Kr9vPfM73WFIXInRa5eNQ0lne5jyxxGcOF9+4EvNnSso5WoJ
+WP1YBoLsBdAy9+wwFvxAnBj4NAwayhBlzdrqyGML4qUtR1UfDDIXfJ4BItqI5Cf0
+BI0LBtFJ1aWc2iRLPOi9fToD9zxjn4YWRtRvgLmiC3pO3zuBpg03C/kO6WPo9OAn
+fdc3b/hcSz/IAO9pMS7VbMwa7a9oLNPKV/KfsMyIS7Ah1Ss/N466ejrMgdv5mk2s
+H3re3zhGeXqfe+TNW2uVWXW31wzOzXcDT7tweKw7/y/qbSHCTzsf+WI+MfAWM7zm
+7MSi4jPmnScPTIwjJ7DFanweqwfOXZR4zgrOaPQWuiDMCoVeNLgNO33buYsGmbWs
+nmbclt9xe8guQ7pauSYtSQ==
+=NMCi
+-----END PGP SIGNATURE-----
